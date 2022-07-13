@@ -17,9 +17,8 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
 
-    {{-- JQuery --}}
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="{{asset('js/app.js')}}"></script>
+    {{-- Js --}}
+    <script src="{{asset('js/admin.js')}}"></script>
 
     <!-- Styles -->
     <link href="{{ asset('css/admin/style.css') }}" rel="stylesheet">
